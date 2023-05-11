@@ -1,5 +1,6 @@
 # GTU-OOP-Practicals
-Practical List: 
+Practical List:
+
 1.) Write a Program that displays Welcome to Java, Learning Java Now and Programming is fun.
 
 2.)Write a program that solves the following equation and displays the value x and y: 
